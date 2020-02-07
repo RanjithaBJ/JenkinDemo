@@ -1,1 +1,4 @@
-Echo "THis is test demo from git to jenkins"
+Echo "This is test of SCM Poll"
+md build
+md test
+md deploy
